@@ -81,16 +81,6 @@ This project analyzes **120+ years of Olympic history** (1896-2016) combined wit
 ├── requirements.html       # Detailed results page
 └── README.md
 ```
-
----
-
-## How to Run
-
-```bash
-pip install -r requirements.txt
-python scripts/generate_all.py
-```
-
 ---
 
 ## Data Sources
